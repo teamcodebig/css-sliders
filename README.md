@@ -6,3 +6,4 @@ The css-slider folder contains all the necessary starter files to get started wi
 ### The folder contains:
       - index.html
       - images folder: It contains all the necessary images to help you get started
+      - css folder: Containing horizontal.css file 
